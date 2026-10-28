@@ -1,4 +1,0 @@
-[mcp_servers.engine_wire]
-url = "http://127.0.0.1:3000/mcp"
-http_headers_helper = "powershell.exe -NoProfile -ExecutionPolicy Bypass -File E:\\Code\\Unreal\\Like_A_Kids\\Tools\\EngineWireMcpHeaders.ps1"
-
